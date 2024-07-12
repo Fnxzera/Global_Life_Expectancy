@@ -9,7 +9,7 @@ The notebook provides the following key analyses:
 # Global Life Expectancy Trends:
 
 Observes the first recorded decline in global life expectancy starting in 2020, likely due to the COVID-19 pandemic.
-![Global Life Expectancy](images/global_average.png)
+![Global Life Expectancy](images/global average m_f.png)
 # Comparison of Life Expectancy by Gender:
 
 Compares the average life expectancy of men and women over the years.
